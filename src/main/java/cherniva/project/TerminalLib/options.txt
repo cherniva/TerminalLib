@@ -1,0 +1,9 @@
+-h, --help
+    argument:
+    description: displays all added and default commands of this library. Each command has arguments(no/yes/optional), description, aliases and default value of argument in case of 'optional' in arguments
+    default:
+
+-l
+    argument: Integer
+    description: save argument value as left operand
+    default:
